@@ -1,0 +1,7 @@
+{
+  "extends": "../../base-config.json",
+  "compilerOptions": {
+    "jsx": "preserve",
+    "strict": true
+  }
+}

@@ -19,8 +19,10 @@
     "@pansy/watermark": "workspace:*",
     "@types/react": "^17",
     "@types/react-dom": "^17",
-    "@umijs/utils": "3.5.20",
     "@umijs/plugin-antd": "0.15.0",
+    "@umijs/utils": "3.5.20",
+    "@vue/composition-api": "^1.4.6",
+    "@vue/test-utils": "^2.0.0-rc.17",
     "@walrus/cli": "1.3.4",
     "@walrus/plugin-release": "1.14.3",
     "@walrus/plugin-test": "1.1.0",
@@ -31,6 +33,8 @@
     "react-dom": "17.0.2",
     "tsup": "5.11.13",
     "typescript": "4.5.5",
-    "use-clipboard-hook": "1.1.1"
+    "use-clipboard-hook": "1.1.1",
+    "vue": "3.0.0",
+    "vue2": "npm:vue@2"
   }
 }

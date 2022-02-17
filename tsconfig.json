@@ -9,6 +9,9 @@
       "@pansy/react-watermark": [
         "./packages/react/*"
       ],
+      "@pansy/vue-watermark": [
+        "./packages/vues/*"
+      ],
     }
   }
 }
