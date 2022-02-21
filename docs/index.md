@@ -21,13 +21,13 @@ features:
     desc: 安全防御，防止他人删除水印dom或修改样式属性。
   - icon: https://gw.alipayobjects.com/zos/basement_prod/a1c647aa-a410-4024-8414-c9837709cb43/k7787itw_w126_h114.png
     title: 框架可用
-    desc: 针对 react、vue、vue3 提供对应开发包。
+    desc: 针对 react、vue 提供对应开发包。
   - icon: https://gw.alipayobjects.com/zos/basement_prod/d078a5a9-1cb3-4352-9f05-505c2e98bc95/k7788v4b_w102_h126.png
     title: 文案多样性
     desc: 支持图片、单行文字、多行文字多种形式。
   - icon: https://gw.alipayobjects.com/zos/antfincdn/Eb8IHpb9jE/Typescript_logo_2020.svg
     title: TypeScript
-    desc: 使用 TypeScript 开发，提供完整的类型定义文件
+    desc: 使用 TypeScript 开发，提供完整的类型定义
 
 footer: Open-source MIT Licensed | Copyright © 2020-present
 ---

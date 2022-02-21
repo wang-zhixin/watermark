@@ -1,5 +1,5 @@
 {
-  "name": "@pansy/root",
+  "name": "@pansy/workspace",
   "private": true,
   "repository": "git@github.com:pansyjs/watermark.git",
   "author": "wangxingkang <156148958@qq.com>",
